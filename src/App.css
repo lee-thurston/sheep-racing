@@ -1,0 +1,12 @@
+.green {
+    background-color: chartreuse;
+}
+
+.blue {
+    color: darkcyan;
+    cursor: pointer;
+}
+
+.hover {
+    cursor: pointer;
+}
