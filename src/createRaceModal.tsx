@@ -109,10 +109,10 @@ export class CreateRaceModal extends React.Component<CreateRaceModalProps, Creat
                     </Modal.Body>
                     <Modal.Footer>
                         <Button variant="secondary" onClick={() => this.handleClose()}>
-                        Close
+                            Close
                         </Button>
                         <Button variant="primary" onClick={() => this.handleSave()}>
-                        Save Changes
+                            Save Changes
                         </Button>
                     </Modal.Footer>
                 </Modal>
